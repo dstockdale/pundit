@@ -477,3 +477,7 @@ based on what is or is not authorized.
 # License
 
 Licensed under the MIT license, see the separate LICENSE.txt file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dstockdale/pundit/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
